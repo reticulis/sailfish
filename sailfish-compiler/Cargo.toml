@@ -22,8 +22,8 @@ procmacro = []
 config = ["serde", "toml"]
 
 [dependencies]
-memchr = "2.3.3"
-quote = { version = "1.0.6", default-features = false }
+memchr = "2.5.0"
+quote = { version = "1.0.21", default-features = false }
 serde = { version = "1.0", features = ["derive"], optional = true }
 toml = { version = "0.5", optional = true }
 home = "0.5.3"
