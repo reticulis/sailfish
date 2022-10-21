@@ -30,7 +30,7 @@ home = "0.5.4"
 filetime = "0.2.18"
 
 [dependencies.syn]
-version = "1.0.103"
+version = "1.0.99"
 default-features = false
 features = ["parsing", "full", "visit-mut", "printing"]
 
