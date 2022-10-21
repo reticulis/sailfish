@@ -24,7 +24,7 @@ config = ["serde", "toml"]
 [dependencies]
 memchr = "2.5.0"
 quote = { version = "1.0.21", default-features = false }
-serde = { version = "1.0.147", features = ["derive"], optional = true }
+serde = { version = "1.0.145", features = ["derive"], optional = true }
 toml = { version = "0.5.9", optional = true }
 home = "0.5.4"
 filetime = "0.2.18"
